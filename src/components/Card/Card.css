@@ -1,0 +1,16 @@
+.card{
+    border:none;
+
+}
+.main-card{
+    border:none;
+    margin: 50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.card img {
+    width: 100px;
+    margin-left: 70px;
+}
